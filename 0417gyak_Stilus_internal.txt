@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang = "hu">
+
+<head>
+    <title>Stilus Inline</title>
+    <meta charset = "UTF-8">
+</head>
+
+<body>
+    <h1 style="color:blue">Kék címsor</h1>
+    <p style="color: red">Piros bekezdés</p>
+</body>
+</html>
